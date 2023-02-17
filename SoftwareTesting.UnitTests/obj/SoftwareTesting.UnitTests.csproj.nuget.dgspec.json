@@ -1,0 +1,161 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\MyProjects\\SoftwareTesting\\SoftwareTesting.UnitTests\\SoftwareTesting.UnitTests.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\MyProjects\\SoftwareTesting\\SoftwareTesting.UnitTests\\SoftwareTesting.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\MyProjects\\SoftwareTesting\\SoftwareTesting.UnitTests\\SoftwareTesting.UnitTests.csproj",
+        "projectName": "SoftwareTesting.UnitTests",
+        "projectPath": "c:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\MyProjects\\SoftwareTesting\\SoftwareTesting.UnitTests\\SoftwareTesting.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\OLALEKAN\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\MyProjects\\SoftwareTesting\\SoftwareTesting.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OLALEKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "c:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\MyProjects\\SoftwareTesting\\SoftwareTesting\\SoftwareTesting.csproj": {
+                "projectPath": "c:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\MyProjects\\SoftwareTesting\\SoftwareTesting\\SoftwareTesting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\MyProjects\\SoftwareTesting\\SoftwareTesting\\SoftwareTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\MyProjects\\SoftwareTesting\\SoftwareTesting\\SoftwareTesting.csproj",
+        "projectName": "SoftwareTesting",
+        "projectPath": "c:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\MyProjects\\SoftwareTesting\\SoftwareTesting\\SoftwareTesting.csproj",
+        "packagesPath": "C:\\Users\\OLALEKAN\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\OLALEKAN\\Desktop\\MyFiles\\Projects\\MyProjects\\SoftwareTesting\\SoftwareTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\OLALEKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

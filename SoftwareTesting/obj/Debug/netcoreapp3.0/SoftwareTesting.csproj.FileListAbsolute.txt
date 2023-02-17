@@ -1,0 +1,5 @@
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\netcoreapp3.0\SoftwareTesting.csproj.AssemblyReference.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\netcoreapp3.0\SoftwareTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\netcoreapp3.0\SoftwareTesting.AssemblyInfoInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\netcoreapp3.0\SoftwareTesting.AssemblyInfo.cs
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\netcoreapp3.0\SoftwareTesting.csproj.CoreCompileInputs.cache

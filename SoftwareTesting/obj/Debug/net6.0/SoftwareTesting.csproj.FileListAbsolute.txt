@@ -1,0 +1,12 @@
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\bin\Debug\net6.0\SoftwareTesting.deps.json
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\bin\Debug\net6.0\SoftwareTesting.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\bin\Debug\net6.0\SoftwareTesting.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\net6.0\SoftwareTesting.csproj.AssemblyReference.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\net6.0\SoftwareTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\net6.0\SoftwareTesting.AssemblyInfoInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\net6.0\SoftwareTesting.AssemblyInfo.cs
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\net6.0\SoftwareTesting.csproj.CoreCompileInputs.cache
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\net6.0\SoftwareTesting.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\net6.0\refint\SoftwareTesting.dll
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\net6.0\SoftwareTesting.pdb
+C:\Users\OLALEKAN\Desktop\MyFiles\Projects\MyProjects\SoftwareTesting\SoftwareTesting\obj\Debug\net6.0\ref\SoftwareTesting.dll
